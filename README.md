@@ -25,7 +25,8 @@ This take-home assignment aims to assess the followings:
   1. Clone the repo to your computer
   2. Run `yarn install`
   3. Run `yarn db:push`
-  4. Run `yarn test`
+  4. Run `yarn dev`
+  5. Visit localhost:3000
 
 NOTE: Though not compulsory, it's highly recommend that you use VSCode, with
 the following Extensions:
