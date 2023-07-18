@@ -54,7 +54,7 @@ you do them in order. There are further instructions embeded in the questions.
   - [Question 3](https://github.com/TheNowProject/frontend-take-home-assignment/blob/main/src/client/components/TodoList.tsx#L8)
   - [Question 4](https://github.com/TheNowProject/frontend-take-home-assignment/blob/main/src/client/components/TodoList.tsx#L39)
   - [Question 5](https://github.com/TheNowProject/frontend-take-home-assignment/blob/main/src/client/components/TodoList.tsx#L58)
-  - [Question 6](https://github.com/TheNowProject/frontend-take-home-assignment/blob/main/src/client/components/TodoList.tsx#L58)
+  - [Question 6](https://github.com/TheNowProject/frontend-take-home-assignment/blob/main/src/pages/index.tsx#L5)
 
 
 Questions 1, 3, 4 and 6 will require you to build/make changes to the UI base on
