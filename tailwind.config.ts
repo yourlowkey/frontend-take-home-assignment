@@ -7,6 +7,10 @@ export default {
       fontFamily: {
         sans: ['var(--font-manrope)'],
       },
+      padding: {
+        '10px': '10px',
+        '20px': '20px',
+      }
     },
     colors: {
       'white': '#ffffff',
@@ -25,7 +29,8 @@ export default {
     borderRadius: {
       6: '6px',
       12: '12px',
-    },
+      99: '9999px'
+    }
   },
   plugins: [],
 } satisfies Config

@@ -53,6 +53,7 @@ export const CreateTodoForm = () => {
       />
 
       <button
+        className='bg-gray-700 font-normal text-white text-base px-[20px] py-[10px] rounded-99'
         type="button"
         disabled={isCreatingTodo}
         onClick={() => {
